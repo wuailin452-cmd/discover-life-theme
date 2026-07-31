@@ -1,0 +1,4 @@
+interface:
+  display_name: "人生课题发现"
+  short_description: "先冷读日记与人生经历，再区分事实和解释并发现隐藏课题"
+  default_prompt: "使用 $discover-life-theme 分析我的材料，通过反例检验来发现人生课题。"
